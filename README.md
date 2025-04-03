@@ -1,46 +1,39 @@
-RetouchAI 🚀
-RetouchAI is an AI-powered image enhancement tool that allows users to improve their images instantly by simply uploading them. Built with React and Vite, it offers a fast and lightweight experience, seamlessly deployed on Vercel for high availability. The tech stack includes React Hooks for state management and Tailwind CSS (if used) for styling.
+# RetouchAI 🚀
 
-Getting Started:
-Clone the repository:
+RetouchAI is an AI-powered image enhancement tool that allows users to improve their images instantly by simply uploading them. Built with **React** and **Vite**, it offers a fast and lightweight experience, seamlessly deployed on **Vercel** for high availability. The tech stack includes **React Hooks** for state management and **Tailwind CSS** (if used) for styling.
 
-bash
-Copy
-Edit
-git clone https://github.com/kunall0880/retouchai.git && cd retouchai
-Install dependencies:
+## Getting Started
 
-bash
-Copy
-Edit
-npm install
-Run the development server:
+To get started with RetouchAI, follow these steps:
 
-bash
-Copy
-Edit
-npm run dev
-This starts the app at http://localhost:5173/.
+1.  **Clone the Repository:**
 
-Deployment:
-The project is deployed on Vercel, and updates can be pushed using:
+    ```bash
+    git clone [https://github.com/kunall0880/retouchai.git](https://github.com/kunall0880/retouchai.git) && cd retouchai
+    ```
 
-bash
-Copy
-Edit
-vercel --prod
-Live Demo:
-🔗 RetouchAI
+2.  **Install Dependencies:**
 
-License:
+    ```bash
+    npm install
+    ```
+
+3.  **Run the Development Server:**
+
+    ```bash
+    npm run dev
+    ```
+
+    This will start the application at `http://localhost:5173/`. **Deployment:** The project is deployed on Vercel. To push updates, use the following command: `vercel --prod`
+
+## Live Demo
+
+🔗 [RetouchAI](<https://retouch-ai-delta.vercel.app/>)
+
+## License
+
 MIT License
 
-Contributions & feedback are welcome! 🚀
+## Contributions
 
-
-
-
-
-
-
-
+Contributions and feedback are welcome! 🚀
